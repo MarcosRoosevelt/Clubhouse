@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/06/15 22:51:55.000.028,=C:\Users\iomar\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/15 22:52:39.000.913,C:\Users\iomar\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Delphi\Clubhouse\UnitPrincipal.fmx</Transaction>
+    <Transaction>2021/06/15 22:52:39.000.913,C:\Users\iomar\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Delphi\Clubhouse\UnitPrincipal.pas</Transaction>
+    <Transaction>2021/06/15 22:52:46.000.835,C:\Users\iomar\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Delphi\Clubhouse\Clubhouse.dproj</Transaction>
+    <Transaction>2021/06/15 23:06:32.000.219,=C:\Delphi\Clubhouse\Unit1.pas</Transaction>
+    <Transaction>2021/06/15 23:06:54.000.934,C:\Delphi\Clubhouse\Unit1.fmx=C:\Delphi\Clubhouse\UnitFrameSugestao.fmx</Transaction>
+    <Transaction>2021/06/15 23:06:54.000.934,C:\Delphi\Clubhouse\Unit1.pas=C:\Delphi\Clubhouse\UnitFrameSugestao.pas</Transaction>
+    <Transaction>2021/06/15 23:37:44.000.309,=C:\Delphi\Clubhouse\Unit1.pas</Transaction>
+    <Transaction>2021/06/15 23:37:58.000.269,C:\Delphi\Clubhouse\Unit1.fmx=C:\Delphi\Clubhouse\UnitFrameSala.fmx</Transaction>
+    <Transaction>2021/06/15 23:37:58.000.269,C:\Delphi\Clubhouse\Unit1.pas=C:\Delphi\Clubhouse\UnitFrameSala.pas</Transaction>
+    <Transaction>2021/06/15 23:46:01.000.751,=C:\Delphi\Clubhouse\Unit1.pas</Transaction>
+    <Transaction>2021/06/15 23:46:18.000.783,C:\Delphi\Clubhouse\Unit1.pas=C:\Delphi\Clubhouse\UnitFrameExplorar.pas</Transaction>
+    <Transaction>2021/06/15 23:46:18.000.783,C:\Delphi\Clubhouse\Unit1.fmx=C:\Delphi\Clubhouse\UnitFrameExplorar.fmx</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
